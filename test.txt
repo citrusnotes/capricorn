@@ -1,2 +1,9 @@
 aiueo
+<<<<<<< HEAD
 takashi umezu
+=======
+kakikukeko
+sashisusso
+
+test, test, test for test.
+>>>>>>> e4f9e85765b8a6374bdb42a6d2463c0074363a00
